@@ -1,4 +1,4 @@
-// Write a function that takes an array of characters and reverses the letters in place. 
+// Write a function that takes an array of characters and reverses the letters 
 
 function reverseArray(array) {
   // return array.reverse()
